@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36855580-c125-4c29-84b8-f3947c15a373" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/avaleht.css" afterPath="$PROJECT_DIR$/public/avaleht.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/design.css" afterPath="$PROJECT_DIR$/public/design.css" />
+    <list default="true" id="36855580-c125-4c29-84b8-f3947c15a373" name="Default" comment="üles2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/avaleht.css" afterPath="$PROJECT_DIR$/public/avaleht.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/avaleht.html" afterPath="$PROJECT_DIR$/public/avaleht.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/juhend.html" afterPath="$PROJECT_DIR$/public/juhend.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/loomine.html" afterPath="$PROJECT_DIR$/public/loomine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/m2ng.html" afterPath="$PROJECT_DIR$/public/m2ng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/mobiil.html" afterPath="$PROJECT_DIR$/public/mobiil.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/parimad.html" afterPath="$PROJECT_DIR$/public/parimad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pealeht.html" afterPath="$PROJECT_DIR$/public/pealeht.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/proto.html" afterPath="$PROJECT_DIR$/public/proto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/s6brad.html" afterPath="$PROJECT_DIR$/public/s6brad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tagasiside.html" afterPath="$PROJECT_DIR$/public/tagasiside.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/valik.html" afterPath="$PROJECT_DIR$/public/valik.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/viktoriin.html" afterPath="$PROJECT_DIR$/public/viktoriin.html" />
     </list>
     <ignored path="fotoo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,8 +52,8 @@
       <file leaf-file-name="avaleht.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/avaleht.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -74,8 +62,8 @@
       <file leaf-file-name="avaleht.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/avaleht.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4226804">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.6494845">
+              <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -125,6 +113,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/design.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/avaleht.css" />
         <option value="$PROJECT_DIR$/public/avaleht.html" />
+        <option value="$PROJECT_DIR$/public/avaleht.css" />
       </list>
     </option>
   </component>
@@ -690,14 +679,20 @@
       <option name="project" value="LOCAL" />
       <updated>1457266278648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="üles2">
+      <created>1457266507326</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457266507326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15778251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15778251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -730,7 +725,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="üles" />
-    <option name="LAST_COMMIT_MESSAGE" value="üles" />
+    <MESSAGE value="üles2" />
+    <option name="LAST_COMMIT_MESSAGE" value="üles2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -849,14 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/avaleht.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/design.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5">
@@ -865,10 +853,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/avaleht.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/avaleht.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4226804">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.6494845">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
           <folding />
         </state>
       </provider>

@@ -58,7 +58,7 @@ border-radius: 20px;
 	background-color: #60AA85;
 	}
 
-#tab {
+.tab {
 display:inline-block; 
 margin-left: 40px;
 }
