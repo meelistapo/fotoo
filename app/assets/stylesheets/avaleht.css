@@ -38,7 +38,7 @@ clear:both;
 		font-family:Courier;
 	}
 
-#button {
+a.button {
 background-color: #72C29B;
 border: none;
 color: #332F3E;
